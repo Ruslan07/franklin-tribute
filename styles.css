@@ -14,7 +14,6 @@ footer {
     background-color: #3c3a40;
     color: #FFFFFF;
     flex-grow: 1;
-    height: 100vh;
     text-align: right;
 }
 
@@ -25,7 +24,6 @@ footer {
 }
 .personal-info {
     margin-right: 15px;
-    height: 100vh;
 }
 
 .ben-image {
